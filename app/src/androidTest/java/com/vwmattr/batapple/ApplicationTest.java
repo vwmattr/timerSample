@@ -1,4 +1,4 @@
-package com.vwmattr.timersample;
+package com.vwmattr.batapple;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
